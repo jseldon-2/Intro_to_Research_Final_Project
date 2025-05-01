@@ -1,0 +1,4 @@
+I believe that we have all of the data we need. Dr. Hayden suggested building a neural network.
+We can use the data from the Montreal database (the MWDD file) as training and test data and then have the network classify the stars in the gaia query file.
+The gaia query file has the gaia and SDSS data.
+The data should be loaded on the Jupyter notebook.
